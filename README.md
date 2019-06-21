@@ -8,7 +8,7 @@ Ponemos la tarjeta de red en modo monitor para escuchar todos los paquetes que c
 Escuchamos solo los paquetes que circulan con el nombre del SSID del enrutador víctima para seleccionar el host víctima.
 ![](https://github.com/santirn/MITM-ARP_SPOOF/blob/master/2.jpg)
 
-Ahora nos toca averiguar las direccion IP. Con la herramienta fping almacenaremos las IPs y MACs en nuestra tabla ARP de todos los dispositivos a los que tengamos alcance en la red.
+Ahora nos toca averiguar las direcciones IP. Con la herramienta fping almacenaremos las IPs y MACs en nuestra tabla ARP de todos los dispositivos a los que tengamos alcance en la red.
 ![](https://github.com/santirn/MITM-ARP_SPOOF/blob/master/3.jpg)
 
 
